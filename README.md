@@ -127,5 +127,14 @@ This project demonstrates comprehensive mastery over essential Flutter widgets:
 
 ---
 
-## 📄 License
-This project is licensed under the MIT License — feel free to use it for learning and academic reference.
+## Screenshots
+<img width="496" height="795" alt="Screenshot 2026-09-21 at 6 12 38 PM" src="https://github.com/user-attachments/assets/90893333-fef5-42a1-a64f-42bd66cd56eb" />
+
+<img width="499" height="794" alt="Screenshot 2026-09-21 at 6 13 04 PM" src="https://github.com/user-attachments/assets/943fcfde-90ca-4414-8f7d-0aa886cbbacc" />
+
+<img width="498" height="795" alt="Screenshot 2026-09-21 at 6 13 26 PM" src="https://github.com/user-attachments/assets/886d1d56-83c7-4ee7-a0ee-e6155528e951" />
+
+<img width="492" height="792" alt="Screenshot 2026-09-21 at 6 13 54 PM" src="https://github.com/user-attachments/assets/d7e5f70e-32f2-4c5f-a4bb-874dca6a175b" />
+
+
+
