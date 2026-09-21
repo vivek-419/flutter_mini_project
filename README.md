@@ -59,3 +59,73 @@ A modern, responsive, offline-first Healthcare & Personal Wellness Flutter appli
 
 ## 📁 Project Structure
 
+```
+mini_project/
+├── 📄 pubspec.yaml                 # Dependencies, assets, and Poppins font configuration
+├── 📁 assets/                      # Local image assets (flower.jpg)
+├── 📁 fonts/                       # Poppins font files (Poppins-Regular.ttf, Poppins-Bold.ttf)
+└── 📁 lib/
+    ├── 📄 main.dart                # App entry point, MaterialApp theme, Scaffold & Navigation
+    ├── 📁 data/
+    │   └── 📄 dummy_data.dart      # Static patient info, health metrics, tips, and doctor lists
+    └── 📁 screens/
+        ├── 📄 patient_details_screen.dart  # Screen 1: Profile & Vitals (Stack, Cards)
+        ├── 📄 health_metrics_screen.dart   # Screen 2: 2x3 Vitals Grid (GridView.builder)
+        ├── 📄 appointment_screen.dart      # Screen 3: Interactive Booking Form (Inputs, Dialog)
+        └── 📄 health_tips_screen.dart      # Screen 4: Dynamic Tips List (ListView.builder, Favorites)
+```
+
+---
+
+## 🧱 Widgets Showcase
+
+This project demonstrates comprehensive mastery over essential Flutter widgets:
+
+| Category | Widgets Used |
+| :--- | :--- |
+| **Structure & Shell** | `MaterialApp`, `Scaffold`, `AppBar`, `Drawer`, `DrawerHeader`, `BottomNavigationBar` |
+| **Layout & Positioning** | `Stack`, `Positioned`, `Row`, `Column`, `Container`, `Padding`, `SizedBox`, `Expanded`, `SingleChildScrollView` |
+| **Collections & Scrollables** | `ListView.builder`, `GridView.builder`, `SliverGridDelegateWithFixedCrossAxisCount` |
+| **Form & Input Controls** | `TextField`, `TextEditingController`, `DropdownButton`, `RadioGroup`, `Radio`, `Checkbox`, `Switch` |
+| **Buttons & Dialogs** | `ElevatedButton`, `TextButton`, `IconButton`, `AlertDialog`, `showDialog`, `SnackBar` |
+| **Visual & UI Styling** | `Card`, `CircleAvatar`, `ClipRRect`, `Icon`, `Text`, `Divider`, `LinearGradient`, `BoxDecoration` |
+
+---
+
+## 🚀 Getting Started & Installation
+
+### Prerequisites
+- [Flutter SDK](https://docs.flutter.dev/get-started/install) installed on your machine.
+- Android Studio / Xcode / VS Code with Flutter extension.
+- Connected Android/iOS device, emulator, or Chrome browser.
+
+### Run Locally
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/vivek-419/flutter-health-tracker.git
+   cd flutter-health-tracker
+   ```
+
+2. **Install dependencies**:
+   ```bash
+   flutter pub get
+   ```
+
+3. **Run the application**:
+   ```bash
+   flutter run
+   ```
+
+---
+
+## 👨‍💻 Author
+
+**Vivek Addagatla**  
+- GitHub: [@vivek-419](https://github.com/vivek-419)
+- Academic Mini Project — Healthcare Flutter Application
+
+---
+
+## 📄 License
+This project is licensed under the MIT License — feel free to use it for learning and academic reference.
